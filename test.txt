@@ -1,0 +1,32 @@
+[2019-04-03 18:38:46.387] [Engine] [info] seek
+[2019-04-03 18:38:46.393] [Engine] [warning] music 2+3=5
+[2019-04-03 18:38:46.396] [Engine] [error] sq=45
+[2019-04-03 18:38:46.400] [Engine] [critical] test
+[2019-04-03 18:38:46.405] [Debug] [info] seek
+[2019-04-03 18:38:46.411] [Debug] [warning] music 2+3=5
+[2019-04-03 18:38:46.417] [Debug] [error] sq
+[2019-04-03 18:38:46.421] [Debug] [critical] test
+[2019-04-03 18:55:02.492] [Engine] [info] seek
+[2019-04-03 18:55:02.499] [Engine] [warning] music 2+3=5
+[2019-04-03 18:55:02.503] [Engine] [error] sq=45
+[2019-04-03 18:55:02.506] [Engine] [critical] test
+[2019-04-03 18:55:02.510] [Debug] [info] seek
+[2019-04-03 18:55:02.519] [Debug] [warning] music 2+3=5
+[2019-04-03 18:55:02.524] [Debug] [error] sq
+[2019-04-03 18:55:02.528] [Debug] [critical] test
+[2019-04-03 20:37:11.756] [Engine] [info] seek
+[2019-04-03 20:37:11.761] [Engine] [warning] music 2+3=5
+[2019-04-03 20:37:11.765] [Engine] [error] sq=45
+[2019-04-03 20:37:11.769] [Engine] [critical] test
+[2019-04-03 20:37:11.773] [Debug] [info] seek
+[2019-04-03 20:37:11.777] [Debug] [warning] music 2+3=5
+[2019-04-03 20:37:11.781] [Debug] [error] sq
+[2019-04-03 20:37:11.784] [Debug] [critical] test
+[2019-04-03 20:43:12.441] [Engine] [info] seek
+[2019-04-03 20:43:12.447] [Engine] [warning] music 2+3=5
+[2019-04-03 20:43:12.451] [Engine] [error] sq=45
+[2019-04-03 20:43:12.454] [Engine] [critical] test
+[2019-04-03 20:43:12.457] [Debug] [info] seek
+[2019-04-03 20:43:12.461] [Debug] [warning] music 2+3=5
+[2019-04-03 20:43:12.466] [Debug] [error] sq
+[2019-04-03 20:43:12.470] [Debug] [critical] test

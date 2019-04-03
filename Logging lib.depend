@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1554309384 source:e:\programming\logging lib\main.cpp
+	"LOG/include/LOG.h"
+
+1554302201 source:e:\programming\logging lib\log\src\color.cpp
+	"../include/Color.h"
+
+1554298766 e:\programming\logging lib\log\include\color.h
+	<windows.h>
+
+1554309363 source:e:\programming\logging lib\log\src\specialized_logger.cpp
+	"../include/Specialized_logger.h"
+
+1554309490 e:\programming\logging lib\log\include\specialized_logger.h
+	"Color.h"
+	<cstdio>
+	<string>
+	<cstdarg>
+	<ctime>
+	<sys/time.h>
+
+1554309474 source:e:\programming\logging lib\log\src\log.cpp
+	"../include/LOG.h"
+
+1554309506 e:\programming\logging lib\log\include\log.h
+	"Color.h"
+	"Specialized_logger.h"
+	<vector>
+	<unordered_map>
+
