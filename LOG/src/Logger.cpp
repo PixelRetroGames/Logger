@@ -5,12 +5,15 @@ namespace LOG
     void Logger::Init()
     {
      console_painter.Init();
+     number_of_loggers=0;
     }
 
     void Logger::Add_logger(std::string name,FILE *out,bool file_and_console)
     {
      if(loggers.count(name)==0)
-        loggers[name]=new Specialized_logger(name,&console_painter,out,file_and_console);
+        {
+         loggers[name]=new Specialized_logger(name,&console_painter,out,file_and_console,number_of_loggers++);
+        }
     }
 
     Specialized_logger *Logger::Get_logger(std::string name)
@@ -25,6 +28,8 @@ namespace LOG
           delete i->second;
          }
      loggers.clear();
+     Specialized_logger::Reset_longest_name_length();
+     number_of_loggers=0;
     }
 
     Logger *Logger::instance;
@@ -41,6 +46,11 @@ namespace LOG
      Logger::Get_instance()->Init();
     }
 
+    void Close()
+    {
+     Logger::Get_instance()->Close();
+    }
+
     void Add_logger(std::string name,std::string filename,bool file_and_console)
     {
      FILE *out=fopen(filename.c_str(),"a");
@@ -51,6 +61,4 @@ namespace LOG
     {
      Logger::Get_instance()->Add_logger(name,out,file_and_console);
     }
-
-    void Close();
 }

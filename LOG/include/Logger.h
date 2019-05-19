@@ -15,6 +15,7 @@ namespace LOG
      Console_painter console_painter;
      std::unordered_map<std::string,Specialized_logger*> loggers;
      static Logger *instance;
+     int number_of_loggers=0;
 
      public:
      void Init();
@@ -28,6 +29,7 @@ namespace LOG
     };
 
     void Init();
+    void Close();
     void Add_logger(std::string name,std::string filename,bool file_and_console=false);
     void Add_logger(std::string name,FILE *out=NULL,bool file_and_console=false);
 };
