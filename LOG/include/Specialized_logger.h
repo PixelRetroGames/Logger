@@ -2,6 +2,7 @@
 #define SPECIALIZED_LOGGER_H
 
 #include "Color.h"
+#include "Log_query.h"
 
 #include <cstdio>
 #include <string>
@@ -9,6 +10,8 @@
 #include <ctime>
 #include <sys/time.h>
 #include <algorithm>
+#include <queue>
+#include <string>
 
 namespace LOG
 {
@@ -32,14 +35,11 @@ namespace LOG
       name_color%=NUMBER_OF_NAME_COLORS;
      }
 
-     void Info    (const char *format,...);
-     void Warning (const char *format,...);
-     void Error   (const char *format,...);
-     void Critical(const char *format,...);
+     void Log(Log_query *query);
      static void Reset_longest_name_length();
 
      private:
-     void Print(int col,std::string message,const char *format,va_list args);
+     void Print_query(Log_query *query);
      void Get_current_time(char *ret);
      int Get_number_of_arguments(const char *format);
     };

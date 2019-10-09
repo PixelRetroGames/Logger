@@ -3,12 +3,19 @@
 
 #include "Color.h"
 #include "Specialized_logger.h"
+#include "Log_query.h"
+#include "CTimer.h"
 
 #include <vector>
 #include <unordered_map>
+#include <queue>
+#include <thread>
+#include <mutex>
 
 namespace LOG
 {
+    const int QUEUE_SIZE=1024;
+
     class Logger
     {
      private:
@@ -16,13 +23,26 @@ namespace LOG
      std::unordered_map<std::string,Specialized_logger*> loggers;
      static Logger *instance;
      int number_of_loggers=0;
+     std::queue<Log_query> log_queue;
+     std::thread *thread;
+     std::mutex end_mutex;
+     bool end=false;
+     long long print_time_interval_ms=0;
 
      public:
+     static Logger *Get_instance();
      void Init();
      void Add_logger(std::string name,FILE *out=NULL,bool file_and_console=false);
      Specialized_logger *Get_logger(std::string name);
      void Close();
-     static Logger *Get_instance();
+     void Start_thread();
+     void Delete_thread();
+     void Set_print_time_interval_ms(long long _time);
+     void Add_to_queue(Log_query query);
+
+     private:
+     void Print_queue();
+     void Timer_checker();
 
      protected:
      Logger(){}
@@ -32,12 +52,15 @@ namespace LOG
     void Close();
     void Add_logger(std::string name,std::string filename,bool file_and_console=false);
     void Add_logger(std::string name,FILE *out=NULL,bool file_and_console=false);
+    void Set_printing_interval_ms(long long _time_ms);
+    void Start_thread();
+    void Stop_thread();
 };
 
-#define LOG_INFO(name,format,...)     LOG::Logger::Get_instance()->Get_logger(name)->Info(format, ##__VA_ARGS__)
-#define LOG_WARNING(name,format,...)  LOG::Logger::Get_instance()->Get_logger(name)->Warning(format, ##__VA_ARGS__)
-#define LOG_ERROR(name,format,...)    LOG::Logger::Get_instance()->Get_logger(name)->Error(format, ##__VA_ARGS__)
-#define LOG_CRITICAL(name,format,...) LOG::Logger::Get_instance()->Get_logger(name)->Critical(format, ##__VA_ARGS__)
+#define LOG_INFO(name,format,...)     LOG::Logger::Get_instance()->Add_to_queue(LOG::Make_log_query(name,LOG::LT_INFO,format, ##__VA_ARGS__))
+#define LOG_WARNING(name,format,...)  LOG::Logger::Get_instance()->Add_to_queue(LOG::Make_log_query(name,LOG::LT_WARNING,format, ##__VA_ARGS__))
+#define LOG_ERROR(name,format,...)    LOG::Logger::Get_instance()->Add_to_queue(LOG::Make_log_query(name,LOG::LT_ERROR,format, ##__VA_ARGS__))
+#define LOG_CRITICAL(name,format,...) LOG::Logger::Get_instance()->Add_to_queue(LOG::Make_log_query(name,LOG::LT_CRITICAL,format, ##__VA_ARGS__))
 
 
 #endif // LOGGER_H

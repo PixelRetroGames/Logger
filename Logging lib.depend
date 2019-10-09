@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1555254268 source:e:\programming\logging lib\main.cpp
+1570627596 source:e:\programming\logging lib\main.cpp
 	"LOG/LOG.h"
 
 1554302201 source:e:\programming\logging lib\log\src\color.cpp
@@ -8,17 +8,20 @@
 1554298766 e:\programming\logging lib\log\include\color.h
 	<windows.h>
 
-1555254586 source:e:\programming\logging lib\log\src\specialized_logger.cpp
+1570102743 source:e:\programming\logging lib\log\src\specialized_logger.cpp
 	"../include/Specialized_logger.h"
 
-1555254594 e:\programming\logging lib\log\include\specialized_logger.h
+1570102710 e:\programming\logging lib\log\include\specialized_logger.h
 	"Color.h"
+	"Log_query.h"
 	<cstdio>
 	<string>
 	<cstdarg>
 	<ctime>
 	<sys/time.h>
 	<algorithm>
+	<queue>
+	<string>
 
 1554309474 source:e:\programming\logging lib\log\src\log.cpp
 	"../include/LOG.h"
@@ -29,15 +32,34 @@
 	<vector>
 	<unordered_map>
 
-1555253122 source:e:\programming\logging lib\log\src\logger.cpp
+1570627919 source:e:\programming\logging lib\log\src\logger.cpp
 	"../include/Logger.h"
 
-1555253090 e:\programming\logging lib\log\include\logger.h
+1570627349 e:\programming\logging lib\log\include\logger.h
 	"Color.h"
 	"Specialized_logger.h"
+	"Log_query.h"
+	"CTimer.h"
 	<vector>
 	<unordered_map>
+	<queue>
+	<thread>
+	<mutex>
 
 1554316877 e:\programming\logging lib\log\log.h
 	"include/Logger.h"
+
+1570102335 e:\programming\logging lib\log\include\log_query.h
+	<string>
+	<cstdarg>
+
+1570101878 source:e:\programming\logging lib\log\src\log_query.cpp
+	"../include/Log_query.h"
+
+1570624643 e:\programming\logging lib\log\include\ctimer.h
+	<ctime>
+	<chrono>
+
+1570624702 source:e:\programming\logging lib\log\src\ctimer.cpp
+	"../include/CTimer.h"
 

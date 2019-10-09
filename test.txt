@@ -1324,3 +1324,873 @@
 [2019-05-19 18:10:29.525]  [Alabala] [error]    sq
 [2019-05-19 18:10:29.530]  [Alabala] [critical] test
 [2019-05-19 18:10:29.542]  [Debug]   [info]     It should not be logged
+[2019-09-26 12:06:12.593]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-09-26 12:06:12.621]  [Engine]  [warning]  music 90
+[2019-09-26 12:06:12.625]  [Engine]  [error]    sq=45
+[2019-09-26 12:06:12.628]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-09-26 12:06:12.634]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-09-26 12:06:12.641]  [Debug]   [warning]  music 2+3=5
+[2019-09-26 12:06:12.645]  [Debug]   [error]    sq
+[2019-09-26 12:06:12.648]  [Debug]   [critical] test
+[2019-09-26 12:06:12.651]  [Alabala] [error]    sq
+[2019-09-26 12:06:12.654]  [Alabala] [critical] test
+[2019-09-26 12:06:12.664]  [Debug]   [info]     It should not be logged
+[2019-09-26 12:46:05.519]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-09-26 12:46:05.529]  [Engine]  [warning]  music 90
+[2019-09-26 12:46:05.534]  [Engine]  [error]    sq=45
+[2019-09-26 12:46:05.538]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-09-26 12:46:05.544]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-09-26 12:46:05.551]  [Debug]   [warning]  music 2+3=5
+[2019-09-26 12:46:05.554]  [Debug]   [error]    sq
+[2019-09-26 12:46:05.558]  [Debug]   [critical] test
+[2019-09-26 12:46:05.561]  [Alabala] [error]    sq
+[2019-09-26 12:46:05.564]  [Alabala] [critical] test
+[2019-09-26 12:46:05.574]  [Debug]   [info]     It should not be logged
+[2019-10-03 12:40:30.202]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:40:30.233]  [Engine]  [warning]  music 90
+[2019-10-03 12:40:30.237]  [Engine]  [error]    sq=45
+[2019-10-03 12:40:30.241]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:40:30.246]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:40:30.253]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 12:40:30.258]  [Debug]   [error]    sq
+[2019-10-03 12:40:30.262]  [Debug]   [critical] test
+[2019-10-03 12:40:30.266]  [Alabala] [error]    sq
+[2019-10-03 12:40:30.270]  [Alabala] [critical] test
+[2019-10-03 12:40:34.077]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:40:34.087]  [Engine]  [warning]  music 90
+[2019-10-03 12:40:34.091]  [Engine]  [error]    sq=45
+[2019-10-03 12:40:34.094]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:40:34.100]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:40:34.107]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 12:40:34.111]  [Debug]   [error]    sq
+[2019-10-03 12:40:34.115]  [Debug]   [critical] test
+[2019-10-03 12:40:34.118]  [Alabala] [error]    sq
+[2019-10-03 12:40:34.122]  [Alabala] [critical] test
+[2019-10-03 12:42:53.660]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:42:53.669]  [Engine]  [warning]  music 90
+[2019-10-03 12:42:53.672]  [Engine]  [error]    sq=45
+[2019-10-03 12:42:53.676]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:42:53.681]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:42:53.688]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 12:42:53.691]  [Debug]   [error]    sq
+[2019-10-03 12:42:53.694]  [Debug]   [critical] test
+[2019-10-03 12:42:53.698]  [Alabala] [error]    sq
+[2019-10-03 12:42:53.701]  [Alabala] [critical] test
+[2019-10-03 12:43:05.628]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:43:05.636]  [Engine]  [warning]  music 90
+[2019-10-03 12:43:05.640]  [Engine]  [error]    sq=45
+[2019-10-03 12:43:05.643]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:43:05.649]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:43:05.656]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 12:43:05.659]  [Debug]   [error]    sq
+[2019-10-03 12:43:05.662]  [Debug]   [critical] test
+[2019-10-03 12:43:05.665]  [Alabala] [error]    sq
+[2019-10-03 12:43:05.669]  [Alabala] [critical] test
+[2019-10-03 12:57:46.743]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:57:46.751]  [Engine]  [info]     music 90
+[2019-10-03 12:57:46.755]  [Engine]  [info]     sq=45
+[2019-10-03 12:57:46.758]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:57:46.764]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:57:46.770]  [Debug]   [info]     music 2+3=5
+[2019-10-03 12:57:46.774]  [Debug]   [info]     sq
+[2019-10-03 12:57:46.777]  [Debug]   [info]     test
+[2019-10-03 12:57:46.780]  [Alabala] [info]     sq
+[2019-10-03 12:57:46.783]  [Alabala] [info]     test
+[2019-10-03 12:58:39.870]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:58:39.879]  [Engine]  [warn]     music 90
+[2019-10-03 12:58:39.884]  [Engine]  [err ]     sq=45
+[2019-10-03 12:58:39.889]  [Engine]  [crit]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:58:39.897]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:58:39.905]  [Debug]   [warn]     music 2+3=5
+[2019-10-03 12:58:39.910]  [Debug]   [err ]     sq
+[2019-10-03 12:58:39.914]  [Debug]   [crit]     test
+[2019-10-03 12:58:39.918]  [Alabala] [err ]     sq
+[2019-10-03 12:58:39.921]  [Alabala] [crit]     test
+[2019-10-03 12:58:53.509]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:58:53.517]  [Engine]  [warn]     music 90
+[2019-10-03 12:58:53.520]  [Engine]  [err ]     sq=45
+[2019-10-03 12:58:53.523]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 12:58:53.529]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 12:58:53.536]  [Debug]   [warn]     music 2+3=5
+[2019-10-03 12:58:53.539]  [Debug]   [err ]     sq
+[2019-10-03 12:58:53.542]  [Debug]   [critical] test
+[2019-10-03 12:58:53.546]  [Alabala] [err ]     sq
+[2019-10-03 12:58:53.549]  [Alabala] [critical] test
+[2019-10-03 13:00:25.340]  [Engine]  [info] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:25.348]  [Engine]  [warn] music 90
+[2019-10-03 13:00:25.351]  [Engine]  [err ] sq=45
+[2019-10-03 13:00:25.354]  [Engine]  [critical]ü©ÔTñr The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:25.361]  [Debug]   [info] Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:00:25.367]  [Debug]   [warn] music 2+3=5
+[2019-10-03 13:00:25.370]  [Debug]   [err ] sq
+[2019-10-03 13:00:25.373]  [Debug]   [critical]Ì¬ÔTñr test
+[2019-10-03 13:00:25.394]  [Alabala] [err ] sq
+[2019-10-03 13:00:25.397]  [Alabala] [critical]t¯ÔTñr test
+[2019-10-03 13:00:36.620]  [Engine]  [info] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:36.628]  [Engine]  [warn] music 90
+[2019-10-03 13:00:36.631]  [Engine]  [err ] sq=45
+[2019-10-03 13:00:36.634]  [Engine]  [crit] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:36.640]  [Debug]   [info] Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:00:36.646]  [Debug]   [warn] music 2+3=5
+[2019-10-03 13:00:36.649]  [Debug]   [err ] sq
+[2019-10-03 13:00:36.652]  [Debug]   [crit] test
+[2019-10-03 13:00:36.655]  [Alabala] [err ] sq
+[2019-10-03 13:00:36.658]  [Alabala] [crit] test
+[2019-10-03 13:00:58.472]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:58.481]  [Engine]  [warning]  music 90
+[2019-10-03 13:00:58.486]  [Engine]  [error]    sq=45
+[2019-10-03 13:00:58.489]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:00:58.495]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:00:58.501]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:00:58.505]  [Debug]   [error]    sq
+[2019-10-03 13:00:58.508]  [Debug]   [critical] test
+[2019-10-03 13:00:58.511]  [Alabala] [error]    sq
+[2019-10-03 13:00:58.514]  [Alabala] [critical] test
+[2019-10-03 13:01:27.688]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:01:27.696]  [Engine]  [warning]  music 90
+[2019-10-03 13:01:27.700]  [Engine]  [error]    sq=45
+[2019-10-03 13:01:27.703]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:01:27.709]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:01:27.715]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:01:27.719]  [Debug]   [error]    sq
+[2019-10-03 13:01:27.722]  [Debug]   [critical] test
+[2019-10-03 13:01:27.726]  [Alabala] [error]    sq
+[2019-10-03 13:01:27.729]  [Alabala] [critical] test
+[2019-10-03 13:01:27.738]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:05:45.294]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:05:45.302]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:05:45.306]  [Debug]   [error]    sq
+[2019-10-03 13:05:45.309]  [Debug]   [critical] test
+[2019-10-03 13:05:45.312]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:06:03.619]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:06:03.628]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:06:03.633]  [Debug]   [error]    sq
+[2019-10-03 13:06:03.637]  [Debug]   [critical] test
+[2019-10-03 13:06:03.641]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:06:08.152]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:06:08.161]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:06:08.165]  [Debug]   [error]    sq
+[2019-10-03 13:06:08.168]  [Debug]   [critical] test
+[2019-10-03 13:06:08.171]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:35:42.200]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:35:42.209]  [Engine]  [warning]  music 45
+[2019-10-03 13:35:42.213]  [Engine]  [error]    sq=45
+[2019-10-03 13:35:42.218]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:35:42.230]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:35:42.238]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:35:42.243]  [Debug]   [error]    sq
+[2019-10-03 13:35:42.247]  [Debug]   [critical] test
+[2019-10-03 13:35:42.256]  [Alabala] [error]    sq
+[2019-10-03 13:35:42.260]  [Alabala] [critical] test
+[2019-10-03 13:35:42.274]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:36:08.735]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:36:08.745]  [Engine]  [warning]  music 2
+[2019-10-03 13:36:08.749]  [Engine]  [error]    sq=2
+[2019-10-03 13:36:08.752]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:36:08.758]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:36:08.765]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:36:08.768]  [Debug]   [error]    sq
+[2019-10-03 13:36:08.776]  [Debug]   [critical] test
+[2019-10-03 13:36:08.779]  [Alabala] [error]    sq
+[2019-10-03 13:36:08.783]  [Alabala] [critical] test
+[2019-10-03 13:36:08.801]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:36:52.488]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:36:52.495]  [Engine]  [warning]  music 2
+[2019-10-03 13:36:52.499]  [Engine]  [error]    sq=2
+[2019-10-03 13:36:52.502]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:36:52.508]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:36:52.514]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:36:52.518]  [Debug]   [error]    sq
+[2019-10-03 13:36:52.525]  [Debug]   [critical] test
+[2019-10-03 13:36:52.529]  [Alabala] [error]    sq
+[2019-10-03 13:36:52.532]  [Alabala] [critical] test
+[2019-10-03 13:36:52.546]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:37:41.994]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:37:42.003]  [Engine]  [warning]  music 2
+[2019-10-03 13:37:42.008]  [Engine]  [error]    sq=2
+[2019-10-03 13:37:42.012]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:37:42.019]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:37:42.028]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:37:42.031]  [Debug]   [error]    sq
+[2019-10-03 13:37:42.039]  [Debug]   [critical] test
+[2019-10-03 13:37:42.042]  [Alabala] [error]    sq
+[2019-10-03 13:37:42.045]  [Alabala] [critical] test
+[2019-10-03 13:37:42.055]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:38:00.864]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:38:00.873]  [Engine]  [warning]  music 2
+[2019-10-03 13:38:00.877]  [Engine]  [error]    sq=2
+[2019-10-03 13:38:00.881]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:38:00.889]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:38:00.897]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:38:00.901]  [Debug]   [error]    sq
+[2019-10-03 13:38:00.908]  [Debug]   [critical] test
+[2019-10-03 13:38:00.912]  [Alabala] [error]    sq
+[2019-10-03 13:38:00.915]  [Alabala] [critical] test
+[2019-10-03 13:38:00.925]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:39:06.668]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:39:06.676]  [Engine]  [warning]  music 2
+[2019-10-03 13:39:06.679]  [Engine]  [error]    sq=2
+[2019-10-03 13:39:06.682]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:39:06.688]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:39:06.695]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:39:06.698]  [Debug]   [error]    sq
+[2019-10-03 13:39:06.706]  [Debug]   [critical] test
+[2019-10-03 13:39:06.709]  [Alabala] [error]    sq
+[2019-10-03 13:39:06.713]  [Alabala] [critical] test
+[2019-10-03 13:39:06.722]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:39:54.300]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:39:54.307]  [Engine]  [warning]  music 2
+[2019-10-03 13:39:54.311]  [Engine]  [error]    sq=2
+[2019-10-03 13:39:54.314]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:39:54.320]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:39:54.326]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:39:54.330]  [Debug]   [error]    sq
+[2019-10-03 13:39:54.333]  [Debug]   [critical] test
+[2019-10-03 13:39:54.341]  [Alabala] [error]    sq
+[2019-10-03 13:39:54.344]  [Alabala] [critical] test
+[2019-10-03 13:39:54.353]  [Debug]   [info]     It should not be logged
+[2019-10-03 13:40:05.876]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:40:05.883]  [Engine]  [warning]  music 2
+[2019-10-03 13:40:05.887]  [Engine]  [error]    sq=2
+[2019-10-03 13:40:05.890]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-03 13:40:05.896]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-03 13:40:05.902]  [Debug]   [warning]  music 2+3=5
+[2019-10-03 13:40:05.907]  [Debug]   [error]    sq
+[2019-10-03 13:40:05.910]  [Debug]   [critical] test
+[2019-10-03 13:40:05.917]  [Alabala] [error]    sq
+[2019-10-03 13:40:05.921]  [Alabala] [critical] test
+[2019-10-03 13:40:05.930]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:34:42.177]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:34:42.208]  [Engine]  [warning]  music 2
+[2019-10-07 10:34:42.224]  [Engine]  [error]    sq=2
+[2019-10-07 10:34:42.224]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:34:42.224]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:34:42.240]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:34:42.240]  [Debug]   [error]    sq
+[2019-10-07 10:34:42.240]  [Debug]   [critical] test
+[2019-10-07 10:34:42.240]  [Alabala] [error]    sq
+[2019-10-07 10:34:42.255]  [Alabala] [critical] test
+[2019-10-07 10:34:42.255]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:38:50.679]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:38:50.686]  [Engine]  [warning]  music 2
+[2019-10-07 10:38:50.689]  [Engine]  [error]    sq=2
+[2019-10-07 10:38:50.692]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:38:50.698]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:38:50.704]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:38:50.709]  [Debug]   [error]    sq
+[2019-10-07 10:38:50.712]  [Debug]   [critical] test
+[2019-10-07 10:38:50.719]  [Alabala] [error]    sq
+[2019-10-07 10:38:50.723]  [Alabala] [critical] test
+[2019-10-07 10:38:50.733]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:48:35.921]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:48:35.929]  [Engine]  [warning]  music 2
+[2019-10-07 10:48:35.933]  [Engine]  [error]    sq=2
+[2019-10-07 10:48:35.937]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:48:35.945]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:48:35.953]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:48:35.958]  [Debug]   [error]    sq
+[2019-10-07 10:48:35.962]  [Debug]   [critical] test
+[2019-10-07 10:48:35.973]  [Alabala] [error]    sq
+[2019-10-07 10:48:35.977]  [Alabala] [critical] test
+[2019-10-07 10:48:35.989]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:49:28.555]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:49:28.568]  [Engine]  [warning]  music 90
+[2019-10-07 10:49:28.577]  [Engine]  [error]    sq=45
+[2019-10-07 10:49:28.585]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:49:28.596]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:49:28.607]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:49:28.615]  [Debug]   [error]    sq
+[2019-10-07 10:49:28.623]  [Debug]   [critical] test
+[2019-10-07 10:49:28.630]  [Alabala] [error]    sq
+[2019-10-07 10:49:28.637]  [Alabala] [critical] test
+[2019-10-07 10:49:28.662]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:52:51.678]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:52:51.689]  [Engine]  [warning]  music 90
+[2019-10-07 10:52:51.697]  [Engine]  [error]    sq=45
+[2019-10-07 10:52:51.705]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:52:51.716]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:52:51.727]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:52:51.735]  [Debug]   [error]    sq
+[2019-10-07 10:52:51.742]  [Debug]   [critical] test
+[2019-10-07 10:52:51.750]  [Alabala] [error]    sq
+[2019-10-07 10:52:51.757]  [Alabala] [critical] test
+[2019-10-07 10:52:51.782]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:53:18.001]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:53:18.012]  [Engine]  [warning]  music 90
+[2019-10-07 10:53:30.598]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:53:30.612]  [Engine]  [warning]  music 90
+[2019-10-07 10:53:30.621]  [Engine]  [error]    sq=45
+[2019-10-07 10:53:30.631]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:53:30.641]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:53:30.652]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:53:30.661]  [Debug]   [error]    sq
+[2019-10-07 10:53:30.668]  [Debug]   [critical] test
+[2019-10-07 10:53:30.676]  [Alabala] [error]    sq
+[2019-10-07 10:53:30.683]  [Alabala] [critical] test
+[2019-10-07 10:53:30.708]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:55:01.223]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:55:01.235]  [Engine]  [warning]  music 90
+[2019-10-07 10:55:01.243]  [Engine]  [error]    sq=45
+[2019-10-07 10:55:01.254]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:55:01.264]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:55:01.275]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:55:01.284]  [Debug]   [error]    sq
+[2019-10-07 10:55:01.292]  [Debug]   [critical] test
+[2019-10-07 10:55:01.300]  [Alabala] [error]    sq
+[2019-10-07 10:55:01.307]  [Alabala] [critical] test
+[2019-10-07 10:55:01.333]  [Debug]   [info]     It should not be logged
+[2019-10-07 10:55:09.975]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:55:09.987]  [Engine]  [warning]  music 90
+[2019-10-07 10:55:09.995]  [Engine]  [error]    sq=45
+[2019-10-07 10:55:10.003]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:55:10.014]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:56:32.597]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:56:32.609]  [Engine]  [warning]  music 90
+[2019-10-07 10:56:32.618]  [Engine]  [error]    sq=45
+[2019-10-07 10:56:32.628]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 10:56:32.639]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 10:56:32.652]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 10:56:32.661]  [Debug]   [error]    sq
+[2019-10-07 10:56:32.670]  [Debug]   [critical] test
+[2019-10-07 10:56:32.681]  [Alabala] [error]    sq
+[2019-10-07 10:56:32.691]  [Alabala] [critical] test
+[2019-10-07 10:56:32.724]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:05:07.935]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:05:07.949]  [Engine]  [warning]  music 90
+[2019-10-07 11:05:07.958]  [Engine]  [error]    sq=45
+[2019-10-07 11:05:07.968]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:05:07.982]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:05:07.995]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:05:08.005]  [Debug]   [error]    sq
+[2019-10-07 11:06:20.841]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:06:20.853]  [Engine]  [warning]  music 90
+[2019-10-07 11:06:20.862]  [Engine]  [error]    sq=45
+[2019-10-07 11:06:20.870]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:06:20.882]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:06:20.893]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:06:20.902]  [Debug]   [error]    sq
+[2019-10-07 11:06:20.911]  [Debug]   [critical] test
+[2019-10-07 11:06:20.921]  [Alabala] [error]    sq
+[2019-10-07 11:06:20.931]  [Alabala] [critical] test
+[2019-10-07 11:06:20.962]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:07:47.890]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:07:47.902]  [Engine]  [warning]  music 90
+[2019-10-07 11:07:47.913]  [Engine]  [error]    sq=45
+[2019-10-07 11:07:47.922]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:07:47.933]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:07:47.945]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:07:47.954]  [Debug]   [error]    sq
+[2019-10-07 11:07:47.964]  [Debug]   [critical] test
+[2019-10-07 11:07:47.974]  [Alabala] [error]    sq
+[2019-10-07 11:07:47.985]  [Alabala] [critical] test
+[2019-10-07 11:08:08.921]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:08.934]  [Engine]  [warning]  music 90
+[2019-10-07 11:08:08.942]  [Engine]  [error]    sq=45
+[2019-10-07 11:08:08.951]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:08.962]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:08:08.974]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:08:08.983]  [Debug]   [error]    sq
+[2019-10-07 11:08:08.992]  [Debug]   [critical] test
+[2019-10-07 11:08:09.003]  [Alabala] [error]    sq
+[2019-10-07 11:08:09.013]  [Alabala] [critical] test
+[2019-10-07 11:08:09.045]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:08:22.026]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:22.041]  [Engine]  [warning]  music 90
+[2019-10-07 11:08:22.052]  [Engine]  [error]    sq=45
+[2019-10-07 11:08:22.063]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:22.077]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:08:22.091]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:08:22.099]  [Debug]   [error]    sq
+[2019-10-07 11:08:22.108]  [Debug]   [critical] test
+[2019-10-07 11:08:22.118]  [Alabala] [error]    sq
+[2019-10-07 11:08:22.128]  [Alabala] [critical] test
+[2019-10-07 11:08:22.160]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:08:28.500]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:28.513]  [Engine]  [warning]  music 90
+[2019-10-07 11:08:28.522]  [Engine]  [error]    sq=45
+[2019-10-07 11:08:28.531]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:08:28.542]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:08:28.554]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:08:28.564]  [Debug]   [error]    sq
+[2019-10-07 11:08:28.573]  [Debug]   [critical] test
+[2019-10-07 11:08:28.583]  [Alabala] [error]    sq
+[2019-10-07 11:08:28.594]  [Alabala] [critical] test
+[2019-10-07 11:08:28.626]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:03.482]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:03.494]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:03.503]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:03.511]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:03.522]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:03.534]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:03.544]  [Debug]   [error]    sq
+[2019-10-07 11:10:03.553]  [Debug]   [critical] test
+[2019-10-07 11:10:03.563]  [Alabala] [error]    sq
+[2019-10-07 11:10:03.573]  [Alabala] [critical] test
+[2019-10-07 11:10:03.605]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:09.679]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:09.693]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:09.705]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:09.715]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:09.729]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:09.741]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:09.751]  [Debug]   [error]    sq
+[2019-10-07 11:10:09.760]  [Debug]   [critical] test
+[2019-10-07 11:10:09.771]  [Alabala] [error]    sq
+[2019-10-07 11:10:09.781]  [Alabala] [critical] test
+[2019-10-07 11:10:09.813]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:12.788]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:12.801]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:12.809]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:12.818]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:12.829]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:12.840]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:12.849]  [Debug]   [error]    sq
+[2019-10-07 11:10:12.860]  [Debug]   [critical] test
+[2019-10-07 11:10:12.870]  [Alabala] [error]    sq
+[2019-10-07 11:10:12.880]  [Alabala] [critical] test
+[2019-10-07 11:10:12.911]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:16.255]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:16.268]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:16.277]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:16.286]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:16.298]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:16.311]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:16.320]  [Debug]   [error]    sq
+[2019-10-07 11:10:16.330]  [Debug]   [critical] test
+[2019-10-07 11:10:16.341]  [Alabala] [error]    sq
+[2019-10-07 11:10:16.351]  [Alabala] [critical] test
+[2019-10-07 11:10:16.385]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:19.068]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:19.082]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:19.091]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:19.101]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:19.112]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:19.125]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:19.135]  [Debug]   [error]    sq
+[2019-10-07 11:10:19.144]  [Debug]   [critical] test
+[2019-10-07 11:10:19.156]  [Alabala] [error]    sq
+[2019-10-07 11:10:19.169]  [Alabala] [critical] test
+[2019-10-07 11:10:19.200]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:26.560]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:26.573]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:26.582]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:26.590]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:26.601]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:26.613]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:26.622]  [Debug]   [error]    sq
+[2019-10-07 11:10:26.633]  [Debug]   [critical] test
+[2019-10-07 11:10:26.643]  [Alabala] [error]    sq
+[2019-10-07 11:10:26.654]  [Alabala] [critical] test
+[2019-10-07 11:10:26.687]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:10:33.428]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:33.442]  [Engine]  [warning]  music 90
+[2019-10-07 11:10:33.451]  [Engine]  [error]    sq=45
+[2019-10-07 11:10:33.460]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:10:33.471]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:10:33.485]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:10:33.495]  [Debug]   [error]    sq
+[2019-10-07 11:10:33.504]  [Debug]   [critical] test
+[2019-10-07 11:10:33.517]  [Alabala] [error]    sq
+[2019-10-07 11:10:33.527]  [Alabala] [critical] test
+[2019-10-07 11:10:33.560]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:22:38.043]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:38.051]  [Engine]  [warning]  music 45
+[2019-10-07 11:22:38.054]  [Engine]  [error]    sq=45
+[2019-10-07 11:22:38.057]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:38.072]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:22:38.078]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:22:38.082]  [Debug]   [error]    sq
+[2019-10-07 11:22:38.086]  [Debug]   [critical] test
+[2019-10-07 11:22:38.098]  [Alabala] [error]    sq
+[2019-10-07 11:22:38.102]  [Alabala] [critical] test
+[2019-10-07 11:22:38.123]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:22:44.140]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:44.147]  [Engine]  [warning]  music 45
+[2019-10-07 11:22:44.151]  [Engine]  [error]    sq=45
+[2019-10-07 11:22:44.156]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:44.173]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:22:44.182]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:22:44.186]  [Debug]   [error]    sq
+[2019-10-07 11:22:44.190]  [Debug]   [critical] test
+[2019-10-07 11:22:44.204]  [Alabala] [error]    sq
+[2019-10-07 11:22:44.208]  [Alabala] [critical] test
+[2019-10-07 11:22:44.229]  [Debug]   [info]     It should not be logged
+[2019-10-07 11:22:56.026]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:56.034]  [Engine]  [warning]  music 45
+[2019-10-07 11:22:56.038]  [Engine]  [error]    sq=45
+[2019-10-07 11:22:56.042]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-07 11:22:56.053]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-07 11:22:56.060]  [Debug]   [warning]  music 2+3=5
+[2019-10-07 11:22:56.064]  [Debug]   [error]    sq
+[2019-10-07 11:22:56.067]  [Debug]   [critical] test
+[2019-10-07 11:22:56.075]  [Alabala] [error]    sq
+[2019-10-07 11:22:56.079]  [Alabala] [critical] test
+[2019-10-07 11:22:56.094]  [Debug]   [info]     It should not be logged
+[2019-10-08 21:16:22.670]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-08 21:16:22.707]  [Engine]  [warning]  music 45
+[2019-10-08 21:16:22.712]  [Engine]  [error]    sq=45
+[2019-10-08 21:16:22.715]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-08 21:16:22.726]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-08 21:16:22.733]  [Debug]   [warning]  music 2+3=5
+[2019-10-08 21:16:22.737]  [Debug]   [error]    sq
+[2019-10-08 21:16:22.740]  [Debug]   [critical] test
+[2019-10-08 21:16:22.748]  [Alabala] [error]    sq
+[2019-10-08 21:16:22.751]  [Alabala] [critical] test
+[2019-10-08 21:16:22.766]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:27:36.049]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:27:36.096]  [Engine]  [warning]  music 45
+[2019-10-09 14:27:36.111]  [Engine]  [error]    sq=45
+[2019-10-09 14:27:36.111]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:27:36.111]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:27:36.127]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:27:36.127]  [Debug]   [error]    sq
+[2019-10-09 14:27:36.127]  [Debug]   [critical] test
+[2019-10-09 14:27:36.143]  [Alabala] [error]    sq
+[2019-10-09 14:27:36.143]  [Alabala] [critical] test
+[2019-10-09 14:27:36.158]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:38:47.225]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:38:47.395]  [Engine]  [warning]  music 45
+[2019-10-09 14:38:47.400]  [Engine]  [error]    sq=45
+[2019-10-09 14:38:47.405]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:38:47.415]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:38:47.421]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:38:47.426]  [Debug]   [error]    sq
+[2019-10-09 14:38:47.429]  [Debug]   [critical] test
+[2019-10-09 14:38:47.437]  [Alabala] [error]    sq
+[2019-10-09 14:38:47.440]  [Alabala] [critical] test
+[2019-10-09 14:38:47.454]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:51:47.152]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:51:47.160]  [Engine]  [warning]  music 45
+[2019-10-09 14:51:47.163]  [Engine]  [error]    sq=45
+[2019-10-09 14:51:47.167]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:51:47.177]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:51:47.184]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:51:47.188]  [Debug]   [error]    sq
+[2019-10-09 14:51:47.190]  [Debug]   [critical] test
+[2019-10-09 14:51:47.198]  [Alabala] [error]    sq
+[2019-10-09 14:51:47.202]  [Alabala] [critical] test
+[2019-10-09 14:51:47.215]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:57:33.887]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:57:33.894]  [Engine]  [warning]  music 45
+[2019-10-09 14:57:33.898]  [Engine]  [error]    sq=45
+[2019-10-09 14:57:33.901]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:57:33.911]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:57:33.918]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:57:33.922]  [Debug]   [error]    sq
+[2019-10-09 14:57:33.925]  [Debug]   [critical] test
+[2019-10-09 14:57:33.933]  [Alabala] [error]    sq
+[2019-10-09 14:57:33.937]  [Alabala] [critical] test
+[2019-10-09 14:57:33.951]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:57:42.927]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:57:42.936]  [Engine]  [warning]  music 45
+[2019-10-09 14:57:42.939]  [Engine]  [error]    sq=45
+[2019-10-09 14:57:42.942]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:57:42.952]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:57:42.959]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:57:42.963]  [Debug]   [error]    sq
+[2019-10-09 14:57:42.966]  [Debug]   [critical] test
+[2019-10-09 14:57:42.972]  [Alabala] [error]    sq
+[2019-10-09 14:57:42.975]  [Alabala] [critical] test
+[2019-10-09 14:57:42.988]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:58:19.083]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:58:19.090]  [Engine]  [warning]  music 45
+[2019-10-09 14:58:19.094]  [Engine]  [error]    sq=45
+[2019-10-09 14:58:19.097]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:58:19.107]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:58:19.114]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:58:19.118]  [Debug]   [error]    sq
+[2019-10-09 14:58:19.121]  [Debug]   [critical] test
+[2019-10-09 14:58:19.129]  [Alabala] [error]    sq
+[2019-10-09 14:58:19.132]  [Alabala] [critical] test
+[2019-10-09 14:58:19.146]  [Debug]   [info]     It should not be logged
+[2019-10-09 14:58:52.803]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:58:52.811]  [Engine]  [warning]  music 45
+[2019-10-09 14:58:52.814]  [Engine]  [error]    sq=45
+[2019-10-09 14:58:52.818]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 14:58:52.828]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 14:58:52.834]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 14:58:52.838]  [Debug]   [error]    sq
+[2019-10-09 14:58:52.841]  [Debug]   [critical] test
+[2019-10-09 14:58:52.849]  [Alabala] [error]    sq
+[2019-10-09 14:58:52.852]  [Alabala] [critical] test
+[2019-10-09 14:58:52.866]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:00:03.222]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:03.229]  [Engine]  [warning]  music 45
+[2019-10-09 15:00:03.233]  [Engine]  [error]    sq=45
+[2019-10-09 15:00:03.236]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:03.247]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:00:03.253]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:00:03.257]  [Debug]   [error]    sq
+[2019-10-09 15:00:03.260]  [Debug]   [critical] test
+[2019-10-09 15:00:03.268]  [Alabala] [error]    sq
+[2019-10-09 15:00:03.272]  [Alabala] [critical] test
+[2019-10-09 15:00:03.287]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:00:25.014]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:25.021]  [Engine]  [warning]  music 45
+[2019-10-09 15:00:25.025]  [Engine]  [error]    sq=45
+[2019-10-09 15:00:25.028]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:25.039]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:00:25.045]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:00:25.049]  [Debug]   [error]    sq
+[2019-10-09 15:00:25.052]  [Debug]   [critical] test
+[2019-10-09 15:00:25.060]  [Alabala] [error]    sq
+[2019-10-09 15:00:25.063]  [Alabala] [critical] test
+[2019-10-09 15:00:25.077]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:00:37.149]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:37.156]  [Engine]  [warning]  music 45
+[2019-10-09 15:00:37.160]  [Engine]  [error]    sq=45
+[2019-10-09 15:00:37.163]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:00:37.172]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:00:37.179]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:00:37.183]  [Debug]   [error]    sq
+[2019-10-09 15:00:37.186]  [Debug]   [critical] test
+[2019-10-09 15:00:37.192]  [Alabala] [error]    sq
+[2019-10-09 15:00:37.195]  [Alabala] [critical] test
+[2019-10-09 15:00:37.208]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:03:42.929]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:03:42.936]  [Engine]  [warning]  music 45
+[2019-10-09 15:03:42.939]  [Engine]  [error]    sq=45
+[2019-10-09 15:03:42.943]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:03:42.954]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:03:42.961]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:03:42.965]  [Debug]   [error]    sq
+[2019-10-09 15:03:42.969]  [Debug]   [critical] test
+[2019-10-09 15:03:42.977]  [Alabala] [error]    sq
+[2019-10-09 15:03:42.981]  [Alabala] [critical] test
+[2019-10-09 15:03:42.995]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:10:42.400]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:10:42.407]  [Engine]  [warning]  music 45
+[2019-10-09 15:10:42.411]  [Engine]  [error]    sq=45
+[2019-10-09 15:10:42.414]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:10:42.425]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:10:42.432]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:10:42.436]  [Debug]   [error]    sq
+[2019-10-09 15:10:42.439]  [Debug]   [critical] test
+[2019-10-09 15:10:42.449]  [Alabala] [error]    sq
+[2019-10-09 15:10:42.453]  [Alabala] [critical] test
+[2019-10-09 15:10:42.471]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:11:26.319]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:11:26.328]  [Engine]  [warning]  music 45
+[2019-10-09 15:11:26.333]  [Engine]  [error]    sq=45
+[2019-10-09 15:11:26.337]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:16:39.218]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:16:39.226]  [Engine]  [warning]  music 45
+[2019-10-09 15:16:39.229]  [Engine]  [error]    sq=45
+[2019-10-09 15:16:39.232]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:16:39.238]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:16:39.245]  [Debug]   [warning]  music 45+3=5
+[2019-10-09 15:16:39.249]  [Debug]   [error]    sq
+[2019-10-09 15:16:39.252]  [Debug]   [critical] test
+[2019-10-09 15:16:39.255]  [Alabala] [error]    sq
+[2019-10-09 15:16:39.258]  [Alabala] [critical] test
+[2019-10-09 15:16:39.268]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:16:54.157]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:16:54.166]  [Engine]  [warning]  music 45
+[2019-10-09 15:16:54.171]  [Engine]  [error]    sq=45
+[2019-10-09 15:16:54.175]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:16:54.183]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:16:54.191]  [Debug]   [warning]  music 45+3=5
+[2019-10-09 15:16:54.196]  [Debug]   [error]    sq
+[2019-10-09 15:16:54.200]  [Debug]   [critical] test
+[2019-10-09 15:16:54.204]  [Alabala] [error]    sq
+[2019-10-09 15:16:54.208]  [Alabala] [critical] test
+[2019-10-09 15:16:54.221]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:17:01.860]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:17:01.867]  [Engine]  [warning]  music 45
+[2019-10-09 15:17:01.871]  [Engine]  [error]    sq=45
+[2019-10-09 15:17:01.874]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:17:01.880]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:17:01.887]  [Debug]   [warning]  music 45+3=5
+[2019-10-09 15:17:01.891]  [Debug]   [error]    sq
+[2019-10-09 15:17:01.894]  [Debug]   [critical] test
+[2019-10-09 15:17:01.897]  [Alabala] [error]    sq
+[2019-10-09 15:17:01.900]  [Alabala] [critical] test
+[2019-10-09 15:17:01.910]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:18:55.138]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:18:55.145]  [Engine]  [warning]  music 499500
+[2019-10-09 15:18:55.149]  [Engine]  [error]    sq=499500
+[2019-10-09 15:18:55.153]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:18:55.159]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:18:55.165]  [Debug]   [warning]  music 499500+3=5
+[2019-10-09 15:18:55.170]  [Debug]   [error]    sq
+[2019-10-09 15:18:55.173]  [Debug]   [critical] test
+[2019-10-09 15:18:55.176]  [Alabala] [error]    sq
+[2019-10-09 15:18:55.179]  [Alabala] [critical] test
+[2019-10-09 15:18:55.190]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:19:30.452]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:19:30.459]  [Engine]  [warning]  music 0
+[2019-10-09 15:19:30.462]  [Engine]  [error]    sq=0
+[2019-10-09 15:19:30.466]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:19:30.472]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:19:30.478]  [Debug]   [warning]  music 0+3=5
+[2019-10-09 15:19:30.482]  [Debug]   [error]    sq
+[2019-10-09 15:19:30.485]  [Debug]   [critical] test
+[2019-10-09 15:19:30.489]  [Alabala] [error]    sq
+[2019-10-09 15:19:30.492]  [Alabala] [critical] test
+[2019-10-09 15:19:30.503]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:19:42.075]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:19:42.085]  [Engine]  [warning]  music 0
+[2019-10-09 15:19:42.090]  [Engine]  [error]    sq=0
+[2019-10-09 15:19:42.095]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:19:42.104]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:19:42.116]  [Debug]   [warning]  music 0+3=5
+[2019-10-09 15:19:42.121]  [Debug]   [error]    sq
+[2019-10-09 15:19:42.124]  [Debug]   [critical] test
+[2019-10-09 15:19:42.128]  [Alabala] [error]    sq
+[2019-10-09 15:19:42.133]  [Alabala] [critical] test
+[2019-10-09 15:19:42.144]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:20:30.506]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:20:30.515]  [Engine]  [warning]  music 5
+[2019-10-09 15:20:30.519]  [Engine]  [error]    sq=5
+[2019-10-09 15:20:30.523]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:25:19.123]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:25:54.508]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:25:54.625]  [Engine]  [warning]  music 50
+[2019-10-09 15:25:54.735]  [Engine]  [error]    sq=5
+[2019-10-09 15:25:54.844]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:25:55.957]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:25:55.964]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:25:56.075]  [Debug]   [error]    sq
+[2019-10-09 15:25:56.186]  [Debug]   [critical] test
+[2019-10-09 15:25:56.297]  [Alabala] [error]    sq
+[2019-10-09 15:25:56.407]  [Alabala] [critical] test
+[2019-10-09 15:25:56.740]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:26:23.531]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:26:23.640]  [Engine]  [warning]  music 50
+[2019-10-09 15:26:23.746]  [Engine]  [error]    sq=5
+[2019-10-09 15:26:23.852]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:26:24.961]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:26:24.971]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:26:25.076]  [Debug]   [error]    sq
+[2019-10-09 15:26:25.182]  [Debug]   [critical] test
+[2019-10-09 15:26:25.288]  [Alabala] [error]    sq
+[2019-10-09 15:26:25.394]  [Alabala] [critical] test
+[2019-10-09 15:26:25.709]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:26:40.075]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:26:41.085]  [Engine]  [warning]  music 50
+[2019-10-09 15:26:42.091]  [Engine]  [error]    sq=5
+[2019-10-09 15:26:43.097]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:26:45.105]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:26:45.112]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:26:46.117]  [Debug]   [error]    sq
+[2019-10-09 15:26:47.122]  [Debug]   [critical] test
+[2019-10-09 15:26:48.127]  [Alabala] [error]    sq
+[2019-10-09 15:26:49.132]  [Alabala] [critical] test
+[2019-10-09 15:26:59.393]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:27:00.407]  [Engine]  [warning]  music 50
+[2019-10-09 15:27:01.418]  [Engine]  [error]    sq=5
+[2019-10-09 15:27:02.428]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:27:03.442]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:27:04.454]  [Debug]   [warning]  music 2+3=5
+[2019-10-09 15:27:05.464]  [Debug]   [error]    sq
+[2019-10-09 15:27:06.474]  [Debug]   [critical] test
+[2019-10-09 15:27:07.484]  [Alabala] [error]    sq
+[2019-10-09 15:27:08.493]  [Alabala] [critical] test
+[2019-10-09 15:28:45.976]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.780]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.785]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.790]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.795]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.800]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.801]  [Engine]  [warning]  music 5
+[2019-10-09 15:29:25.809]  [Engine]  [error]    sq=5
+[2019-10-09 15:29:25.822]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:29:25.831]  [Debug]   [error]    sq
+[2019-10-09 15:29:25.815]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:29:25.828]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:29:25.832]  [Debug]   [critical] test
+[2019-10-09 15:29:25.846]  [Alabala] [error]    sq
+[2019-10-09 15:29:25.846]  [Alabala] [critical] test
+[2019-10-09 15:29:25.852]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:30:03.409]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.414]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.419]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.424]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.429]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.432]  [Engine]  [warning]  music 5
+[2019-10-09 15:30:03.444]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:03.454]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:30:03.438]  [Engine]  [error]    sq=5
+[2019-10-09 15:30:03.454]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:30:03.463]  [Debug]   [error]    sq
+[2019-10-09 15:30:03.476]  [Alabala] [critical] test
+[2019-10-09 15:30:03.466]  [Debug]   [critical] test
+[2019-10-09 15:30:03.476]  [Alabala] [error]    sq
+[2019-10-09 15:30:03.492]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:30:36.528]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:36.535]  [Engine]  [warning]  music 5
+[2019-10-09 15:30:36.538]  [Engine]  [error]    sq=5
+[2019-10-09 15:30:36.542]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:30:36.547]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:30:36.554]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:30:36.558]  [Debug]   [error]    sq
+[2019-10-09 15:30:36.561]  [Debug]   [critical] test
+[2019-10-09 15:30:36.564]  [Alabala] [error]    sq
+[2019-10-09 15:30:36.567]  [Alabala] [critical] test
+[2019-10-09 15:30:36.577]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:31:44.584]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:31:44.592]  [Engine]  [warning]  music 5
+[2019-10-09 15:31:44.597]  [Engine]  [error]    sq=5
+[2019-10-09 15:31:44.601]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:31:44.608]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:31:44.617]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:31:44.622]  [Debug]   [error]    sq
+[2019-10-09 15:31:44.625]  [Debug]   [critical] test
+[2019-10-09 15:31:44.630]  [Alabala] [error]    sq
+[2019-10-09 15:31:44.634]  [Alabala] [critical] test
+[2019-10-09 15:31:44.646]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:32:03.431]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:03.438]  [Engine]  [warning]  music 5
+[2019-10-09 15:32:03.442]  [Engine]  [error]    sq=5
+[2019-10-09 15:32:03.445]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:03.451]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:32:03.458]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:32:03.461]  [Debug]   [error]    sq
+[2019-10-09 15:32:03.465]  [Debug]   [critical] test
+[2019-10-09 15:32:03.468]  [Alabala] [error]    sq
+[2019-10-09 15:32:03.471]  [Alabala] [critical] test
+[2019-10-09 15:32:03.481]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:32:17.598]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:17.605]  [Engine]  [warning]  music 5
+[2019-10-09 15:32:17.609]  [Engine]  [error]    sq=5
+[2019-10-09 15:32:17.613]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:18.597]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:32:18.604]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:32:18.608]  [Debug]   [error]    sq
+[2019-10-09 15:32:18.611]  [Debug]   [critical] test
+[2019-10-09 15:32:18.615]  [Alabala] [error]    sq
+[2019-10-09 15:32:18.618]  [Alabala] [critical] test
+[2019-10-09 15:32:18.631]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:32:38.846]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:38.853]  [Engine]  [warning]  music 5
+[2019-10-09 15:32:38.856]  [Engine]  [error]    sq=5
+[2019-10-09 15:32:38.859]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:38.865]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:32:38.872]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:32:38.876]  [Debug]   [error]    sq
+[2019-10-09 15:32:38.879]  [Debug]   [critical] test
+[2019-10-09 15:32:38.882]  [Alabala] [error]    sq
+[2019-10-09 15:32:38.885]  [Alabala] [critical] test
+[2019-10-09 15:32:38.895]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:32:55.503]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:55.513]  [Engine]  [warning]  music 5
+[2019-10-09 15:32:55.517]  [Engine]  [error]    sq=5
+[2019-10-09 15:32:55.521]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:32:55.528]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:32:55.536]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:32:55.541]  [Debug]   [error]    sq
+[2019-10-09 15:32:55.544]  [Debug]   [critical] test
+[2019-10-09 15:32:55.547]  [Alabala] [error]    sq
+[2019-10-09 15:32:55.550]  [Alabala] [critical] test
+[2019-10-09 15:32:55.560]  [Debug]   [info]     It should not be logged
+[2019-10-09 15:33:15.614]  [Engine]  [info]     The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:33:15.621]  [Engine]  [warning]  music 5
+[2019-10-09 15:33:15.624]  [Engine]  [error]    sq=5
+[2019-10-09 15:33:15.627]  [Engine]  [critical] The red jumpy fox jumped over the brown weird dog
+[2019-10-09 15:33:15.815]  [Debug]   [info]     Jimmy is a lonely boy who walks his hamster outside everyday
+[2019-10-09 15:33:15.823]  [Debug]   [warning]  music 5+3=5
+[2019-10-09 15:33:15.826]  [Debug]   [error]    sq
+[2019-10-09 15:33:15.830]  [Debug]   [critical] test
+[2019-10-09 15:33:15.833]  [Alabala] [error]    sq
+[2019-10-09 15:33:15.836]  [Alabala] [critical] test
+[2019-10-09 15:33:15.847]  [Debug]   [info]     It should not be logged

@@ -18,11 +18,15 @@ namespace LOG
 
     Specialized_logger *Logger::Get_logger(std::string name)
     {
-     return loggers[name];
+     if(loggers.count(name))
+        return loggers[name];
+     else
+        return NULL;
     }
 
     void Logger::Close()
     {
+     Delete_thread();
      for(std::unordered_map<std::string,Specialized_logger*>::iterator i=loggers.begin();i!=loggers.end();i++)
          {
           delete i->second;
@@ -39,6 +43,64 @@ namespace LOG
      if(instance==nullptr)
         instance=new Logger();
      return instance;
+    }
+
+    void Logger::Add_to_queue(Log_query query)
+    {
+     if(!loggers.count(query.name))
+        return;
+     log_queue.push(query);
+     if(log_queue.size()==QUEUE_SIZE)
+        Print_queue();
+     else
+        Start_thread();
+    }
+
+    void Logger::Print_queue()
+    {
+     printf("##############################################\n");
+     while(!log_queue.empty())
+           {
+            Get_logger(log_queue.front().name)->Log(&(log_queue.front()));
+            log_queue.pop();
+           }
+    }
+
+    void Logger::Start_thread()
+    {
+     if(thread!=NULL)
+        {
+         end_mutex.lock();
+         bool e=end;
+         end_mutex.unlock();
+         if(e)
+            Delete_thread();
+         else
+            return;
+        }
+     thread=new std::thread(&Logger::Timer_checker,Logger::Get_instance());
+    }
+
+    void Logger::Delete_thread()
+    {
+     thread->join();
+     end=false;
+     delete thread;
+     thread=NULL;
+    }
+
+    void Logger::Timer_checker()
+    {
+     std::this_thread::sleep_for(std::chrono::milliseconds(print_time_interval_ms));
+     Print_queue();
+     end_mutex.lock();
+     end=true;
+     end_mutex.unlock();
+    }
+
+    void Logger::Set_print_time_interval_ms(long long _time)
+    {
+     print_time_interval_ms=_time;
     }
 
     void Init()
@@ -60,5 +122,15 @@ namespace LOG
     void Add_logger(std::string name,FILE *out=NULL,bool file_and_console)
     {
      Logger::Get_instance()->Add_logger(name,out,file_and_console);
+    }
+
+    void Set_printing_interval_ms(long long _time_ms)
+    {
+     Logger::Get_instance()->Set_print_time_interval_ms(_time_ms);
+    }
+
+    void Start_thread()
+    {
+     Logger::Get_instance()->Start_thread();
     }
 }

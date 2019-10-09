@@ -8,21 +8,20 @@ int f(int x)
 int main()
 {
  LOG::Init();
+ LOG::Set_printing_interval_ms(100);
+ LOG::Start_thread();
  LOG::Add_logger("Engine","test.txt",true);
  LOG::Add_logger("Debug","test.txt",true);
  LOG::Add_logger("Alabala","test.txt",true);
  //LOG::Add_logger("Alabalaportocala","test.txt",true);
 
- int sq=0;
- for(int i=0;i<10;i++)
-     {
-      sq+=i;
-     }
-
+ int sq=5;
  LOG_INFO("Engine","The red jumpy fox jumped over the brown weird dog");
  LOG_WARNING("Engine","music %d",sq+45);
  LOG_ERROR("Engine","sq=%d",sq);
  LOG_CRITICAL("Engine","The red jumpy fox jumped over the brown weird dog");
+
+ std::this_thread::sleep_for(std::chrono::milliseconds(200));
 
  LOG_INFO("Debug","Jimmy is a lonely boy who walks his hamster outside everyday");
  LOG_WARNING("Debug","music %d+%d=%d",2,3,2+3);

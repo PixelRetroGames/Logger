@@ -31,11 +31,19 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="EV_BUS/EV_BUS.h" />
+		<Unit filename="EV_BUS/include/Event.h" />
+		<Unit filename="EV_BUS/include/Event_bus.h" />
+		<Unit filename="EV_BUS/include/Function_handler.h" />
 		<Unit filename="LOG/LOG.h" />
+		<Unit filename="LOG/include/CTimer.h" />
 		<Unit filename="LOG/include/Color.h" />
+		<Unit filename="LOG/include/Log_query.h" />
 		<Unit filename="LOG/include/Logger.h" />
 		<Unit filename="LOG/include/Specialized_logger.h" />
+		<Unit filename="LOG/src/CTimer.cpp" />
 		<Unit filename="LOG/src/Color.cpp" />
+		<Unit filename="LOG/src/Log_query.cpp" />
 		<Unit filename="LOG/src/Logger.cpp" />
 		<Unit filename="LOG/src/Specialized_logger.cpp" />
 		<Unit filename="main.cpp" />

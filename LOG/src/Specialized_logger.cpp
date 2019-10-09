@@ -10,35 +10,33 @@ namespace LOG
 
     int Specialized_logger::longest_name_length=0;
 
-    void Specialized_logger::Info(const char *format,...)
+    void Specialized_logger::Log(Log_query *query)
     {
-     int n_args=Get_number_of_arguments(format);
-     va_list args;
-     va_start(args,n_args);
-     Print(INFO_COLOR,"info",format,args);
-    }
-    void Specialized_logger::Warning(const char *format,...)
-    {
-     int n_args=Get_number_of_arguments(format);
-     va_list args;
-     va_start(args,n_args);
-     Print(WARNING_COLOR,"warning",format,args);
-    }
+     if(this==NULL)
+        return;
+     int color;
+     std::string message;
+     switch(query->type)
+            {
+             case LT_INFO:
+                        query->color=INFO_COLOR;
+                        query->message="info";
+                        break;
+             case LT_WARNING:
+                        query->color=WARNING_COLOR;
+                        query->message="warning";
+                        break;
+             case LT_ERROR:
+                        query->color=ERROR_COLOR;
+                        query->message="error";
+                        break;
+             case LT_CRITICAL:
+                        query->color=CRITICAL_COLOR;
+                        query->message="critical";
+                        break;
 
-    void Specialized_logger::Error(const char *format,...)
-    {
-     int n_args=Get_number_of_arguments(format);
-     va_list args;
-     va_start(args,n_args);
-     Print(ERROR_COLOR,"error",format,args);
-    }
-
-    void Specialized_logger::Critical(const char *format,...)
-    {
-     int n_args=Get_number_of_arguments(format);
-     va_list args;
-     va_start(args,n_args);
-     Print(CRITICAL_COLOR,"critical",format,args);
+            }
+     Print_query(query);
     }
 
     void Specialized_logger::Reset_longest_name_length()
@@ -46,8 +44,13 @@ namespace LOG
      longest_name_length=0;
     }
 
-    void Specialized_logger::Print(int col,std::string message,const char *format,va_list args)
+    void Specialized_logger::Print_query(Log_query *query)
     {
+     int col=query->color;
+     std::string message=query->message;
+     const char *format=query->format;
+     va_list args=query->args;
+
      if(this==nullptr)
         return;
      char timestamp[100];
@@ -105,16 +108,4 @@ namespace LOG
      strftime(ret,100,"%Y-%m-%d %H:%M:%S",now);
      sprintf(ret,"%s.%.3d",ret,milliseconds);
     }
-
-    int Specialized_logger::Get_number_of_arguments(const char *format)
-    {
-     int i=0,ret=0;
-     while(format[i]!=NULL)
-           {
-            if(format[i]=='%')
-               ret++;
-            i++;
-           }
-     return ret;
-    };
 }
