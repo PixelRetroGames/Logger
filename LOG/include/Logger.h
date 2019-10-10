@@ -25,9 +25,9 @@ namespace LOG
      int number_of_loggers=0;
      std::queue<Log_query> log_queue;
      std::thread *thread;
-     std::mutex end_mutex;
+     std::mutex end_mutex,print_mutex;
      bool end=false;
-     long long print_time_interval_ms=0;
+     long long printing_interval_ms=0;
 
      private:
      void Print_queue();
@@ -41,7 +41,7 @@ namespace LOG
      void Close();
      void Start_thread();
      void Delete_thread();
-     void Set_print_time_interval_ms(long long _time);
+     void Set_printing_interval_ms(long long _time_ms);
      void Add_to_queue(Log_query query);
 
      protected:

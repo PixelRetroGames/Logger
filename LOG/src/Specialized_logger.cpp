@@ -48,8 +48,7 @@ namespace LOG
     {
      int col=query->color;
      std::string message=query->message;
-     const char *format=query->format;
-     va_list args=query->args;
+     std::string log=query->log;
 
      if(this==nullptr)
         return;
@@ -81,7 +80,7 @@ namespace LOG
          console_painter->Reset_color();
          fprintf(stderr," ");
          console_painter->Change_color(col);
-         vfprintf(stderr,format,args);
+         fprintf(stderr,log.c_str());
          fprintf(stderr,"\n");
          console_painter->Reset_color();
         }
@@ -90,7 +89,7 @@ namespace LOG
          fprintf(out,"[%s] ",timestamp);
          fprintf(out," [%s]%s ",name.c_str(),spaces_name.c_str()+name.length());
          fprintf(out,"[%s]%s ",message.c_str(),spaces_message.c_str()+message.length());
-         vfprintf(out,format,args);
+         fprintf(out,log.c_str());
          fprintf(out,"\n");
          fflush(out);
         }

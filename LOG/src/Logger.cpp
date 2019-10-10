@@ -50,7 +50,7 @@ namespace LOG
      if(!loggers.count(query.name))
         return;
      log_queue.push(query);
-     if(log_queue.size()==QUEUE_SIZE)
+     if(log_queue.size()==QUEUE_SIZE || printing_interval_ms==0)
         Print_queue();
      else
         Start_thread();
@@ -58,11 +58,13 @@ namespace LOG
 
     void Logger::Print_queue()
     {
+     print_mutex.lock();
      while(!log_queue.empty())
            {
             Get_logger(log_queue.front().name)->Log(&(log_queue.front()));
             log_queue.pop();
            }
+     print_mutex.unlock();
     }
 
     void Logger::Start_thread()
@@ -82,6 +84,8 @@ namespace LOG
 
     void Logger::Delete_thread()
     {
+     if(thread==NULL)
+        return;
      thread->join();
      end=false;
      delete thread;
@@ -90,16 +94,16 @@ namespace LOG
 
     void Logger::Timer_checker()
     {
-     std::this_thread::sleep_for(std::chrono::milliseconds(print_time_interval_ms));
+     std::this_thread::sleep_for(std::chrono::milliseconds(printing_interval_ms));
      Print_queue();
      end_mutex.lock();
      end=true;
      end_mutex.unlock();
     }
 
-    void Logger::Set_print_time_interval_ms(long long _time)
+    void Logger::Set_printing_interval_ms(long long _time_ms)
     {
-     print_time_interval_ms=_time;
+     printing_interval_ms=_time_ms;
     }
 
     ///For User
@@ -127,7 +131,7 @@ namespace LOG
 
     void Set_printing_interval_ms(long long _time_ms)
     {
-     Logger::Get_instance()->Set_print_time_interval_ms(_time_ms);
+     Logger::Get_instance()->Set_printing_interval_ms(_time_ms);
     }
 
     void Start_thread()

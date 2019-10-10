@@ -7,12 +7,14 @@ namespace LOG
      Log_query q;
      q.name=name;
      q.type=type;
-     q.format=format;
 
      int n_args=Get_number_of_arguments(format);
      va_list args;
      va_start(args,n_args);
-     q.args=args;
+
+     char buffer[100];
+     vsprintf(buffer,format,args);
+     q.log=buffer;
 
      return q;
     }

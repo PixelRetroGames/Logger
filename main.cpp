@@ -8,8 +8,7 @@ int f(int x)
 int main()
 {
  LOG::Init();
- LOG::Set_printing_interval_ms(100);
- LOG::Start_thread();
+ LOG::Set_printing_interval_ms(1000);
  LOG::Add_logger("Engine","test.txt",true);
  LOG::Add_logger("Debug","test.txt",true);
  LOG::Add_logger("Alabala","test.txt",true);
@@ -59,6 +58,8 @@ int main()
 
  LOG_INFO("prr","mau");
  LOG_CRITICAL("prr","MAU");
+
+ LOG::Set_printing_interval_ms(100);
 
  LOG_INFO("Debug","It should not be logged");
 
@@ -160,6 +161,16 @@ int main()
  LOG_WARNING("test18","music %d",sq+45);
  LOG_ERROR("test18","sq=%d",sq);
  LOG_CRITICAL("test18","The red jumpy fox jumped over the brown weird dog");
+
+ LOG_CRITICAL("test18","test %s","alabala");
+ {
+ char *x;
+ x=new char[100];
+ strcpy(x,"testtttt");
+ printf("%s\n",x);
+ LOG_CRITICAL("test18","%s",x);
+ delete x;
+ }
 
  LOG::Close();
 
