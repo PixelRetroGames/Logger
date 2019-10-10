@@ -82,6 +82,8 @@ int main()
  LOG_ERROR("test3","sq=%d",sq);
  LOG_CRITICAL("test3","The red jumpy fox jumped over the brown weird dog");
 
+ std::this_thread::sleep_for(std::chrono::milliseconds(200));
+
  LOG_INFO("test4","The red jumpy fox jumped over the brown weird dog");
  LOG_WARNING("test4","music %d",sq+45);
  LOG_ERROR("test4","sq=%d",sq);

@@ -29,6 +29,10 @@ namespace LOG
      bool end=false;
      long long print_time_interval_ms=0;
 
+     private:
+     void Print_queue();
+     void Timer_checker();
+
      public:
      static Logger *Get_instance();
      void Init();
@@ -40,14 +44,11 @@ namespace LOG
      void Set_print_time_interval_ms(long long _time);
      void Add_to_queue(Log_query query);
 
-     private:
-     void Print_queue();
-     void Timer_checker();
-
      protected:
      Logger(){}
     };
 
+    ///For User
     void Init();
     void Close();
     void Add_logger(std::string name,std::string filename,bool file_and_console=false);

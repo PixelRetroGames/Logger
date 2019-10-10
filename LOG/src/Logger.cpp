@@ -58,7 +58,6 @@ namespace LOG
 
     void Logger::Print_queue()
     {
-     printf("##############################################\n");
      while(!log_queue.empty())
            {
             Get_logger(log_queue.front().name)->Log(&(log_queue.front()));
@@ -102,6 +101,8 @@ namespace LOG
     {
      print_time_interval_ms=_time;
     }
+
+    ///For User
 
     void Init()
     {

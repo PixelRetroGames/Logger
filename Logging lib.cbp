@@ -31,10 +31,6 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="EV_BUS/EV_BUS.h" />
-		<Unit filename="EV_BUS/include/Event.h" />
-		<Unit filename="EV_BUS/include/Event_bus.h" />
-		<Unit filename="EV_BUS/include/Function_handler.h" />
 		<Unit filename="LOG/LOG.h" />
 		<Unit filename="LOG/include/CTimer.h" />
 		<Unit filename="LOG/include/Color.h" />

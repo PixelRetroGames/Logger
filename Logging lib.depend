@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1570627596 source:e:\programming\logging lib\main.cpp
+1570689093 source:e:\programming\logging lib\main.cpp
 	"LOG/LOG.h"
 
 1554302201 source:e:\programming\logging lib\log\src\color.cpp
@@ -8,10 +8,10 @@
 1554298766 e:\programming\logging lib\log\include\color.h
 	<windows.h>
 
-1570102743 source:e:\programming\logging lib\log\src\specialized_logger.cpp
+1570688876 source:e:\programming\logging lib\log\src\specialized_logger.cpp
 	"../include/Specialized_logger.h"
 
-1570102710 e:\programming\logging lib\log\include\specialized_logger.h
+1570688919 e:\programming\logging lib\log\include\specialized_logger.h
 	"Color.h"
 	"Log_query.h"
 	<cstdio>
@@ -32,10 +32,10 @@
 	<vector>
 	<unordered_map>
 
-1570627919 source:e:\programming\logging lib\log\src\logger.cpp
+1570689124 source:e:\programming\logging lib\log\src\logger.cpp
 	"../include/Logger.h"
 
-1570627349 e:\programming\logging lib\log\include\logger.h
+1570688311 e:\programming\logging lib\log\include\logger.h
 	"Color.h"
 	"Specialized_logger.h"
 	"Log_query.h"
