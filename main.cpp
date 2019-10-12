@@ -14,6 +14,8 @@ int main()
  LOG::Add_logger("Alabala","test.txt",true);
  //LOG::Add_logger("Alabalaportocala","test.txt",true);
 
+ //LOG::Disable_info();
+
  int sq=5;
  LOG_INFO("Engine","The red jumpy fox jumped over the brown weird dog");
  LOG_WARNING("Engine","music %d",sq+45);

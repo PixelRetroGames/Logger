@@ -32,10 +32,10 @@
 	<vector>
 	<unordered_map>
 
-1570693418 source:e:\programming\logging lib\log\src\logger.cpp
+1570864390 source:e:\programming\logging lib\log\src\logger.cpp
 	"../include/Logger.h"
 
-1570693383 e:\programming\logging lib\log\include\logger.h
+1570864308 e:\programming\logging lib\log\include\logger.h
 	"Color.h"
 	"Specialized_logger.h"
 	"Log_query.h"

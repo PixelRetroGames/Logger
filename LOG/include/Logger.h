@@ -28,6 +28,7 @@ namespace LOG
      std::mutex end_mutex,print_mutex;
      bool end=false;
      long long printing_interval_ms=0;
+     bool disabled_info=false;
 
      private:
      void Print_queue();
@@ -43,6 +44,7 @@ namespace LOG
      void Delete_thread();
      void Set_printing_interval_ms(long long _time_ms);
      void Add_to_queue(Log_query query);
+     void Disable_info();
 
      protected:
      Logger(){}
@@ -54,8 +56,7 @@ namespace LOG
     void Add_logger(std::string name,std::string filename,bool file_and_console=false);
     void Add_logger(std::string name,FILE *out=NULL,bool file_and_console=false);
     void Set_printing_interval_ms(long long _time_ms);
-    void Start_thread();
-    void Stop_thread();
+    void Disable_info();
 };
 
 #define LOG_INFO(name,format,...)     LOG::Logger::Get_instance()->Add_to_queue(LOG::Make_log_query(name,LOG::LT_INFO,format, ##__VA_ARGS__))

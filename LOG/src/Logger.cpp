@@ -47,13 +47,18 @@ namespace LOG
 
     void Logger::Add_to_queue(Log_query query)
     {
-     if(!loggers.count(query.name))
+     if(!loggers.count(query.name) || (disabled_info && query.type==LT_INFO))
         return;
      log_queue.push(query);
      if(log_queue.size()==QUEUE_SIZE || printing_interval_ms==0)
         Print_queue();
      else
         Start_thread();
+    }
+
+    void Logger::Disable_info()
+    {
+     disabled_info=true;
     }
 
     void Logger::Print_queue()
@@ -134,8 +139,8 @@ namespace LOG
      Logger::Get_instance()->Set_printing_interval_ms(_time_ms);
     }
 
-    void Start_thread()
+    void Disable_info()
     {
-     Logger::Get_instance()->Start_thread();
+     Logger::Get_instance()->Disable_info();
     }
 }
